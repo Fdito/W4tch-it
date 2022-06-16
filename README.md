@@ -4,6 +4,6 @@ A web simple web page that enables you to share Netflix, Disney + and other stre
 
 #How to use?
 
-Open [W4tch-it](https://www.w4tch-it.web.app) and make click in start
+Open [W4tch-it](https://w4tch-it.web.app) and make click in start
 in the popup select the tab that says “Chrome tab” then select Netflix, Disney + etc. tab and click in share.
 You are all set, just share the Chrome window in zoom and enjoy your movie with friends.
